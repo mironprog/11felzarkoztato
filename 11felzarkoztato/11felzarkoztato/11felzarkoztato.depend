@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637167016 source:c:\users\temp.iit.000\desktop\11felzarkoztato\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
